@@ -1,4 +1,10 @@
 How to build:
+
+Inside the CppUnit directory do:
+    ./autogen.sh 
+    ./configure 
+    make
+
 From the root directory of the project do:
 
     mkdir build
