@@ -1,0 +1,16 @@
+How to build:
+From the root directory of the project do:
+
+    mkdir build
+    cd build
+    cmake ..
+    make
+
+
+To run the main program type './bosch_queue' from the build directory.
+
+
+To run the CppUnit tests run './test/test_queue' from the build directory.
+
+
+The documentation for the class shall be generated in build/doc/html/classQueue.html
